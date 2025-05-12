@@ -1,0 +1,12 @@
+*{
+    font-family:Arial;
+}
+#services img{
+    height: 100px;
+}
+.nav-link:hover{
+    color:blue;
+}
+.navbar-brand:hover{
+    color:blue;
+}
