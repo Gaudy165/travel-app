@@ -29,5 +29,5 @@ Website ini dibuat sebagai bagian dari latihan yang saya ikuti dari channel YouT
 
 ## 🙌 Credit
 
-Dibuat oleh: [Nama Anda]  
-Referensi: Channel YouTube [Kelas Terbuka](https://www.youtube.com/@kelasterbuka)
+Dibuat oleh: Aditya Gaudy Mardiono  
+Referensi: Channel YouTube [Kelas Terbuka](https://www.youtube.com/@KelasTerbuka)
